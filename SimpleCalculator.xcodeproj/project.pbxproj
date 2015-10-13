@@ -481,6 +481,7 @@
 				CF46AE9E1BCC998D004A6578 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF46AE9F1BCC998D004A6578 /* Build configuration list for PBXNativeTarget "SimpleCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +490,7 @@
 				CF46AEA11BCC998D004A6578 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF46AEA21BCC998D004A6578 /* Build configuration list for PBXNativeTarget "SimpleCalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +499,7 @@
 				CF46AEA41BCC998D004A6578 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
